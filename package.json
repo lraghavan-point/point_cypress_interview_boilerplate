@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ck-point/point_cypress_interview_boilerplate#readme",
   "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
     "cypress": "^12.1.0"
   }
 }
