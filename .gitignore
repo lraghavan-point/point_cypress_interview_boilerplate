@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.development
+cypress.env.json*
+
+# misc
+yarn-error.log
+cypress/screenshots/
+cypress/videos/
+cypress/results/
+.vscode/
+*/.DS_Store
+
+temp

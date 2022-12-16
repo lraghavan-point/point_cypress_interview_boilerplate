@@ -1,0 +1,26 @@
+{
+  "name": "point_cypress_interview_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate project to facilitate interview process",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ck-point/point_cypress_interview_boilerplate.git"
+  },
+  "keywords": [
+    "cypress",
+    "interview"
+  ],
+  "author": "Charles Kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ck-point/point_cypress_interview_boilerplate/issues"
+  },
+  "homepage": "https://github.com/ck-point/point_cypress_interview_boilerplate#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
