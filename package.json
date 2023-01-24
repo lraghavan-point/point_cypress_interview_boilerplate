@@ -4,7 +4,7 @@
   "description": "boilerplate project to facilitate interview process",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "cypress open"
   },
   "repository": {
     "type": "git",
