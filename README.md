@@ -26,6 +26,11 @@ The general workflow is listed as following:
 2. Install yarn: https://classic.yarnpkg.com/en/docs/install
 3. Run test with yarn (execute "yarn test" from CLI of choice)
 
+# Address for test:
+1. 678 San Miguel Avenue, Santa Clara, CA 
+2. 979 Henderson Ave, Sunnyvale, CA 94086
+3. 505 Cypress Point Dr, Mountain View, CA 94043
+4. 778 Coleman Ave, Menlo Park, CA 94025
 
 
 
