@@ -32,6 +32,12 @@ The general workflow is listed as following:
 3. 505 Cypress Point Dr, Mountain View, CA 94043
 4. 778 Coleman Ave, Menlo Park, CA 94025
 
+# General goals / information for both manual & automated test
+1. Documented test case(s) will be used for programming session with engineers
+2. KBYG (Know before You Go) workflow has 3-5 pages and last page contains more functionality
+3. Can consolidate test cases
+4. Breadth vs depth of test coverage but feel free to mention any scenarios that highlights your approach or interesting test cases
+5. Consider automation while describing test cases
 
 
 
