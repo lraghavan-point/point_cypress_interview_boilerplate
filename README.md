@@ -22,7 +22,7 @@ The general workflow is listed as following:
 4. Additional UI control is available for user to adjust the details of contract; Or user may proceed to continue with appliccation or book an appointment with an account manager.
 
 # How to install and run test
-1. Clone repo from github: [https://github.com/ck-point/point_cypress_interview_boilerplate](https://github.com/lraghavan-point/point_cypress_interview_boilerplate)
+1. Clone repo from github: [https://github.com/lraghavan-point/point_cypress_interview_boilerplate](https://github.com/lraghavan-point/point_cypress_interview_boilerplate)
 2. Install yarn: https://classic.yarnpkg.com/en/docs/install
 3. Run test with yarn (execute "yarn test" from CLI of choice)
 
